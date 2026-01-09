@@ -21,6 +21,7 @@ public class UCLN {
             if (num1 == 0 || num2 == 0) {
                 System.out.println("Không có ước chung lớn nhất");
             }
+
         }while(num1 == 0 || num2 == 0);
 
         while (num1 != num2) {
